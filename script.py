@@ -1,0 +1,5 @@
+print("ola mundo")
+print(2+2)
+print(3*8)
+print(3**8)
+print("Programa Python")
